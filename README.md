@@ -2,12 +2,12 @@
 
 **`AI / Data / WebScraping / DevOps`**
 
-Passionate about computer science, automation and AI 🤖
+Passionate about computer science, automation, and AI 🤖
 <br>
-Freelance Python Dev 🚀
+Freelance Python-Dev 🚀
 
-- 🔭 Currently working on **Web scraping**
-- 🌱 Currently studying **Docker**, **DevOps/MLOps**, **CI/CD**
+- 🔭 **Advanced Web Scraping**
+- 🌱 Currently studying **React** and **React-Native**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/romain-maillard6/)
 
 ---
