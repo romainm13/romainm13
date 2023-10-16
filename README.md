@@ -1,6 +1,6 @@
 # 👨‍💻 Romain Maillard
 
-**`AI / Data / WebScraping / DevOps`**
+**`Fullstack / DevOps / Data`**
 
 Passionate about computer science, automation, and AI 🤖
 <br>
