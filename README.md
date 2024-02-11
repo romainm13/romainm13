@@ -1,13 +1,13 @@
 # 👨‍💻 Romain Maillard
 
-**`Fullstack / DevOps / Data`**
+**`Data Engineer / DevOps`**
 
 Passionate about computer science, automation, and AI 🤖
 <br>
 Freelance Python-Dev 🚀
 
 - 🔭 **Advanced Web Scraping**
-- 🌱 Currently studying **React** and **React-Native**
+- 🌱 Currently studying **Kafka** and **Prefect**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/romain-maillard6/)
 
 ---
